@@ -1,5 +1,6 @@
-- 👋 Oii eu sou o @KrisBezerra, me chamo Kristóferson
-- Atualmente me encontro aprendendo varias linguagens de programação, como Java, JavaScript e Python
+- Oii, eu sou @KrisBezerra
+  Atualmente sou desenvolvedor Front e Back-End, e também DBA da Bred Capas 😁
+  
 - 📫 Se quiser entrar em contato comigo, pode me mandar um e-mail: kris.rcb@icloud.com ou kris123.rosa@gmail.com
 
 <!---
